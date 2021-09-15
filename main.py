@@ -54,7 +54,7 @@ def mynameis(turtle):
 
 
     #output string
-    print("Andrew is my name.")
+    print(turtle + "is my name.")
 
 
 
