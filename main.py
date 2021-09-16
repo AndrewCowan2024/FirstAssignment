@@ -75,8 +75,11 @@ def plusFive(pizza):
 def divideTwo(Pasta):
     print(Pasta / 2)
 
+def madLib(adjective,noun,place,vehicle,pluralnoun,verb,typeOfJob,):
 
-
+#define function
+ def madLib(place):
+     print(place + "food is"+ adjective + "Hello" + place + "Whats your favorite place" + noun + "I dont like that" + pluralnoun + "I like that" + ):
 
 print("these are my top five movies")
 
