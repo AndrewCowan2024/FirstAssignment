@@ -60,7 +60,20 @@ def mynameis(turtle):
 
     #run function
     myNameis("Andrew")
+    myNameis("Chipper")
+    myNameis("Mark")
 
+#define Peraminter
+def timesTwo(chicken):
+
+    #output string
+    print(chicken * 2)
+
+def plusFive(pizza):
+    print(pizza + 5)
+
+def divideTwo(Pasta):
+    print(Pasta / 2)
 
 
 
@@ -76,3 +89,12 @@ topFiveSports()
 print("these are my top five videogames")
 
 topFiveVideoGames()
+
+#run function
+timesTwo(30)
+
+#run function
+plusFive(72)
+
+#run function
+divideTwo(70)
