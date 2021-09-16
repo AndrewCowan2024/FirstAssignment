@@ -59,7 +59,7 @@ def mynameis(turtle):
 
 
     #run function
-myNameis("Andrew")
+    myNameis("Andrew")
 
 
 
@@ -73,6 +73,6 @@ print("these are my top five sports")
 
 topFiveSports()
 
-print("these are my tip five videogames")
+print("these are my top five videogames")
 
 topFiveVideoGames()
