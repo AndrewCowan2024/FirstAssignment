@@ -82,7 +82,8 @@ def madLib(adjective,noun,place,vehicle,pluralnoun,verb,typeOfJob,):
      print("A long long time ago in a galaxy" + noun + "Yoda was down in " + place + "I was stuck in my" + adjective + "I couldent get out of that dang" + vehicle + "of mine so I had to fight to" + place + "While my dad was off" + typeOfJob + "So that is why I ran away from home")
 
 #run madLib
-madLib(Coconut, Apple_Bottom_Jeans, The_boots_With_The_Fur, Cyber_Truck, Boots, am, Plummer)
+madLib("Coconut", "Apple_Bottom_Jeans", "The_boots_With_The_Fur", :def madLib(place):
+     print(place + "food is"+ adjective + "Hello" + place + "Whats your favorite place" + noun + "I dont like that" + pluralnoun + "I like that" +):"Cyber_Truck", Boots, am, Plummer)
 
 
 
